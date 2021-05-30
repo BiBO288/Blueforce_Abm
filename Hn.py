@@ -48,8 +48,8 @@ banner="""
 \033[1;97m--------------------------------------------------
 \033[1;93m(!)\033[1;97m Author   : Tech-HABIB
 \033[1;93m(!)\033[1;97m Github   : https://github.com/Tech-HABIB
-\033[1;93m(!)\033[1;97m Fb Page  : https://m.facebook.com/Bigra Phatan
-\033[1;93m(!)\033[1;97m Api Key  : CFBID11N0V20SPIDABMID11N
+\033[1;93m(!)\033[1;97m FB PAG   : https://m.facebook.com/Bigra Phatan
+\033[1;93m(!)\033[1;97m FUNNYLINE: AGAYA TO JAWAN HOKE
 \033[1;97m--------------------------------------------------
 """
 
