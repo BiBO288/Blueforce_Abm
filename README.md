@@ -6,7 +6,7 @@
 ° pkg install git -y
 ° termux-setup-storage
 ° rm -rf Blueforce_Abm
-° git clone https://github.com/Tech-abm/Blueforce_Abm
+° git clone https://github.com/BiBO288/Blueforce_Abm.git
 ° cd Blueforce_Abm
 ° pip2 install mechanize && pip2 install requests
 ° pip3 install mechanize && pip3 install requests
